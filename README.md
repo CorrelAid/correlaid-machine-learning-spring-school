@@ -4,7 +4,7 @@ Welcome to the CorrelAid ML Winter School!
 
 ## Task
 
-The problem we want to solve is to classify a trees in Roosevelt National Forest.
+The problem we want to solve is to classify trees in Roosevelt National Forest.
 
 ## Setup
 
