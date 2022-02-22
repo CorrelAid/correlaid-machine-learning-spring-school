@@ -1,6 +1,6 @@
-# CorrelAid Machine Learning Winter School
+# CorrelAid Machine Learning Spring School
 
-Welcome to the CorrelAid ML Winter School!
+Welcome to the CorrelAid ML Spring School!
 
 ## Task
 
@@ -13,10 +13,10 @@ Please make sure you have a modern Python 3 installation. We recommend the Pytho
 The easiest way to get started is with a clean virtual environment. You can do so by running the following commands, assuming that you have installed Miniconda or Anaconda.
 
 ```Bash
-$ conda create -n winter-school python=3.9
-$ conda activate winter-school
-(winter-school) $ pip install -r requirements.txt
-(winter-school) $ python -m ipykernel install --user --name winter-school --display-name "Python 3.9 (winter-school)"
+$ conda create -n spring-school python=3.9
+$ conda activate spring-school
+(spring-school) $ pip install -r requirements.txt
+(spring-school) $ python -m ipykernel install --user --name spring-school --display-name "Python 3.9 (spring-school)"
 ```
 
 The first command will create a new environment with Python 3.9. To use this environment, you call `conda activate <name>` with the name of the environment as second step. Once activated, you can install packages as usual with the `pip` package manager. You will install all listed requirements from the provided `requirements.txt` as a third step. Finally, to actually make your new environment available as kernel within a Jupyter notebook, you need to run `ipykernel install`, which is the fourth command. 
@@ -24,7 +24,7 @@ The first command will create a new environment with Python 3.9. To use this env
 Once the setup is complete, you can run any notebook by calling 
 
 ```Bash
-(winter-school) $ <jupyter-lab|jupyter notebook>
+(spring-school) $ <jupyter-lab|jupyter notebook>
 ```
 
 `jupyter lab` is opening your browser with a local version of [JupyterLab](https://jupyter.org/), which is a web-based interactive development environment that is somewhat more powerful and more modern than the older Jupyter Notebook. Both work fine, so you can choose the tool that is more to your liking. We recommend to go with Jupyter Lab as it provides a file browser, among other improvements.
