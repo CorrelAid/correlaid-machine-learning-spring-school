@@ -2,6 +2,9 @@
 
 Welcome to the CorrelAid ML Spring School!
 
+In this repository you can find the slides and other files for the CorrelAid ML Spring School.
+The following sections become relevant as the course progresses.
+
 ## Task
 
 The problem we want to solve is to classify trees in Roosevelt National Forest.
@@ -28,6 +31,10 @@ Once the setup is complete, you can run any notebook by calling
 ```
 
 `jupyter lab` is opening your browser with a local version of [JupyterLab](https://jupyter.org/), which is a web-based interactive development environment that is somewhat more powerful and more modern than the older Jupyter Notebook. Both work fine, so you can choose the tool that is more to your liking. We recommend to go with Jupyter Lab as it provides a file browser, among other improvements.
+
+###
+
+If you encounter any difficulties while installing, please contact Daniel, Pia or Flo.
 
 ## Data
 
