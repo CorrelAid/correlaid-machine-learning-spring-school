@@ -67,3 +67,4 @@ Name / Data Type / Measurement / Description
 - Cover_Type (7 types) / integer / 1 to 7 / Forest Cover Type designation
 
 
+[![CC BY 4.0][cc-by-shield]][cc-by]
