@@ -66,4 +66,4 @@ Name / Data Type / Measurement / Description
 - Soil_Type (40 binary columns) / qualitative / 0 (absence) or 1 (presence) / Soil Type designation
 - Cover_Type (7 types) / integer / 1 to 7 / Forest Cover Type designation
 
-Shield: [![CC BY 4.0][https://img.shields.io/badge/license-cc%20by%204.0-lightgrey.svg]][http://creativecommons.org/licenses/by/4.0/]
+[![CC BY 4.0](https://img.shields.io/badge/license-cc%20by%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by/4.0/)
