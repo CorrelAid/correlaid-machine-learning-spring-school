@@ -139,3 +139,18 @@ cython_debug/
 
 # VSC
 .vscode/*
+
+########## Include specific files
+
+# Ignore everything
+/*
+
+# But not these files...
+!.gitignore
+!/slides
+!/notebooks
+!README.md
+!requirements.txt
+
+# Always ignore this folder
+**/00_Archive
