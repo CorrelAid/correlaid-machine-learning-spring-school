@@ -10,6 +10,10 @@
 
 ## 3. Introduction to Python
 
+- 01_Anaconda_Navigator.mp4
+- 02_JupyterNotebook.mp4
+- 03_Libraries.mp4
+
 ## 4. Theory intro to models
 
 ## 5. Data Exploration
